@@ -1,0 +1,38 @@
+Matlab in an acryonm for 'Matrix Laboratory'.
+It is used for numerical calculations and computations.
+Interface is very musch similar to RStudio.
+
+Everything in Matlab is defined in the form of a Matrix.
+
+Matlab has a:
+1. Command Window
+2. Scripting Window
+3. Workplace (Assigned Variables are visible here)
+
+Types of Variables in Matlab are:
+1. Numerical Variables
+2. String Variables
+3. Logical Variables 
+
+Constants in Matlab are:
+1. Pi
+2. i
+3. e
+4. Identity Matrix
+5. Zero Matrix
+6. One Matrix
+
+Basic Function Syntax in Matlab:
+
+function [outputArg1, outputArg2] = func_name(inputArg1, inputArg2)
+% This is a comment inside the function
+%   This ia comment para, I guess 
+
+outputArg1 = inputArg1
+outputArg2 = inputArg2
+
+end
+
+
+
+
