@@ -1,2 +1,58 @@
-Introduced myself to Qlik View and Qlik Sense Software
+## Introduced myself to Qlik View and Qlik Sense Software
+
+Qlik View and Qlik both are similar softwares. 
+The only major difference they have is the technology that they are built upon, 
+their UI/UX experience is also very different.
+Qlik View was developed on .net.
+Qlik Sense was developed using Javascript, HTML, etc 
+making it more browser friendly or a better browser-based software.
+
+The file format for Qlik View  is .qvw.
+The fiel format for Qlik Sense is .qvf.
+
+Qlik Sense comes in three types:
+1. Desktop
+2. Enterprise
+3. Cloud
+
+Types of Data Models:
+1. Star Schema (Most preffered Model by Data Analyst while using Qlik)
+2. Snowflake Schema
+
+Types of Architecture Tiers:
+1. Tier I Architecture
+		Source ---> Sample(Script(ETL), Data Model, UI) having .qvf format
+2. Tier II Architecture
+		Script, Data MOdel ---> having .qvf format ---> Sample(Binary Load, UI) having .qvf format
+		Binary load is fastest way to load data models into an application.
+		One .qvf fiel can have only one Binary Load statement.
+3. Tier III Architecture
+		Source ---> Script(No ETL), Create Raw(QVL) having .qvf format ---> converted to .qvds format(Format for storing Extracted Data) 
+		---> then back to .qvf format when needed making it independent of the Source Sample(Script, Data Model) 
+		---> (Binary Load, Data Model, UI)
+
+Qlik has one single engine for all backend work.
+
+How does Qlik Compress the Data?
+It replaces unique values in a column with a symbol, 
+example replacing EID1000 in Employee table to 1 to save space.
+It creates a Symbol table in the backend where each unique EID 
+has a unique symbol.
+
+Therefore, higher the number of unique keys, the lower is the compression.
+The higher the duplicate keys, the higher the compression.
+
+The maximum compression that can be possible stated by Qlik is 10:1, 
+i.e. compressing 10 GB to 1 GB but only if certain conditions satisfy.
+
+The Front Inteface is called HUB.
+
+Publication is done by Admin ONLY.
+Admin can add/seperate/group Application into various streams such HR, Sales, etc.
+
+
+
+
+
+
 
