@@ -15,8 +15,6 @@ Qlik Sense comes in three types:
 2. Enterprise
 3. Cloud
 
-
-
 Types of Data Models:
 1. Star Schema (Most preffered Model by Data Analyst while using Qlik)
 2. Snowflake Schema
@@ -51,3 +49,5 @@ The Front Inteface is called HUB.
 
 Publication is done by Admin ONLY.
 Admin can add/seperate/group Application into various streams such HR, Sales, etc.
+
+
