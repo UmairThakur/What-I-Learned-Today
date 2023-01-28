@@ -24,8 +24,7 @@ SAS (Statistical Analysis System)
 ## 27-01-2023
 
 ## 28-01-2023
-[Xaas : Everything/Anything as a Service](https://youtu.be/NbQijlAuGMg) 
-
+# [Xaas : Everything/Anything as a Service](https://youtu.be/NbQijlAuGMg) 
 X stands for Everything/Anything.
 
 Advantages of Xaas:
@@ -35,3 +34,8 @@ Advantages of Xaas:
 4. Secure 
 5. Cost - Efficient (Not very expensive)
 
+** Introduction to Kaggle **
+Part 1:
+https://youtu.be/K6GSdn_iv8s
+Part 2:
+https://youtu.be/i9T4E5bSLrE
