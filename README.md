@@ -37,6 +37,6 @@ Advantages of Xaas:
 ### Introduction to Kaggle
 
 Part 1: 
-https://youtu.be/K6GSdn_iv8s
+https://youtu.be/K6GSdn_iv8s  
 Part 2: 
-https://youtu.be/i9T4E5bSLrE
+https://youtu.be/i9T4E5bSLrE  
