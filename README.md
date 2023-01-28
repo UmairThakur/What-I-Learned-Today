@@ -23,3 +23,13 @@ SAS (Statistical Analysis System)
 
 ## 27-01-2023
 
+## 28-01-2023
+Xaas : Everything/Anything as a Service
+X stands for Everything/Anything.
+Advantages of Xaas:
+1. Remote Access
+2. H/W, S/W, Desktop, Communication, DB
+3. Faster and Scalable
+4. Secure 
+5. Cost - Efficient (Not very expensive)
+https://youtu.be/NbQijlAuGMg
