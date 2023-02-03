@@ -40,3 +40,12 @@ Part 1:
 https://youtu.be/K6GSdn_iv8s  
 Part 2: 
 https://youtu.be/i9T4E5bSLrE  
+
+
+## 02-02-2023
+How to create a personal portfolio website
+Also created and published one - 
+
+## 03-02-2023
+Revised Basics of SQL and learned some new concepts
+
