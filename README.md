@@ -48,7 +48,10 @@ https://youtu.be/i9T4E5bSLrE
 ## 30-01-2023
 
 
-## 02-02-2023
+## 31-01-2023
+
+
+## 01-02-2023
 
 
 ## 02-02-2023
@@ -59,3 +62,5 @@ Also created and published one for my Power BI Developer Portfolio
 ## 03-02-2023
 Revised Basics of SQL and learned some new concepts
 
+
+## 04-02-2023
