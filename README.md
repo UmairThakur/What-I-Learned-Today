@@ -2,11 +2,11 @@
 I will be sharing what new thing I learned today, DAILY!
 
 
-# 26-01-2023
-## Qlik Sense Introduction
+## 26-01-2023
+Qlik Sense Introduction
 https://youtu.be/MRdHt6isw8I
 
-## Qlik Sense Playlist
+Qlik Sense Playlist
 https://youtu.be/P5h4AuyBZvs
 
 Matlab Introduction
