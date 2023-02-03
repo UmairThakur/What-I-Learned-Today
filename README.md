@@ -43,8 +43,8 @@ https://youtu.be/i9T4E5bSLrE
 
 
 ## 02-02-2023
-How to create a personal portfolio website
-Also created and published one - 
+# [How to create a personal portfolio website](https://umairthakur.github.io/Power-BI-Portfolio/)
+Also created and published one for my Power BI Developer Portfolio
 
 ## 03-02-2023
 Revised Basics of SQL and learned some new concepts
